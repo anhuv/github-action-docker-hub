@@ -1,4 +1,4 @@
-name: flask-helloworld
+name: fastapi-helloworld
 on:
   push:
     branches: [ main ]
